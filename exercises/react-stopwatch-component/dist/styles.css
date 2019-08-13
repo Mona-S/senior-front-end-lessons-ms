@@ -1,0 +1,10 @@
+.stopWatch {
+  height: 20%;
+  width: 15%;
+  border-radius: 50%;
+  border: 1px solid black;
+  background-color: lightsteelblue;
+  position: absolute;
+  text-align: center;
+  font-size: 30px;
+}
