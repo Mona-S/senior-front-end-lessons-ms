@@ -15,8 +15,8 @@ class Appdrawer extends React.Component {
   render() {
     if (this.state.showMenu) {
       return (
-        <div>
-          <div onClick={this.handleClick} className='menu'>Menu
+        <div className='side' onClick={this.handleClick}>
+          <div className= 'menu' onClick={this.handleClick}> Menu
             <div><br/>About <br/>Get Started <br/>Sign Up</div>
           </div>
         </div>
