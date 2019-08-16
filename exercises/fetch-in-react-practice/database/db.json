@@ -14,6 +14,26 @@
       "id": 3,
       "task": "Get a job.",
       "isCompleted": true
+    },
+    {
+      "task": "walk the dog",
+      "isCompleted": true,
+      "id": 4
+    },
+    {
+      "task": "get groceries",
+      "isCompleted": true,
+      "id": 5
+    },
+    {
+      "task": "study react",
+      "isCompleted": true,
+      "id": 6
+    },
+    {
+      "task": "practice problems",
+      "isCompleted": true,
+      "id": 7
     }
   ]
 }
