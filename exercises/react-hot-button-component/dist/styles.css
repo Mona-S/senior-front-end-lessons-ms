@@ -1,0 +1,37 @@
+.container {
+  font-size: 25px;
+  padding: 5px;
+  border: 1px solid red;
+}
+
+.purple {
+  background-color: purple;
+
+}
+
+.blue {
+  background-color: lightblue;
+
+}
+
+.salmon {
+  background-color: salmon;
+
+}
+
+.orange {
+  background-color: orange;
+
+}
+
+.yellow {
+  background-color:yellow;
+
+}
+
+.white {
+  background-color:white;
+
+}
+
+
